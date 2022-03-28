@@ -1,0 +1,12 @@
+button{
+    width: 120px;
+};
+
+#button-id{
+    display:flex;
+    justify-content:space-around;
+    width:100%;
+    bottom:10px;
+    left:10px;
+    border:2px solid black
+}
